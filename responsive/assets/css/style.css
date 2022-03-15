@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.item {
+  margin-top: 16px;
+  font-size: 40px;
+  color: white;
+  text-align: center;
+  line-height: 280px;
+  background-color: orange;
+}
